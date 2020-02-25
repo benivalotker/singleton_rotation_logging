@@ -3,10 +3,10 @@
 #description     :rotation logging create log file with rotation backup file.
 #update date     :01/01/2020 12:10
 #version         :1.0
-#changes         :veriosn 1.0 - singleton class.
+#changes         :version 1.0 - singleton class.
 #python_version  :3.6  
 #==============================================================================
-\
+
 import os
 import time
 import logging
